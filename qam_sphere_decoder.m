@@ -23,10 +23,6 @@ end
 
 symb_est = x_dec(1:N) + x_dec(N+1:end)*1i;
 
-% constellation = [-1+1i; 1+1i; 1-1i; -1-1i];
-% bitmap = [0 1; 1 1; 1 0; 0 0];
-% sdobj = comm.SphereDecoder(constellation,bitmap);
-% symb_est = step(sdobj, y.', H);
 
 
 
