@@ -1,5 +1,7 @@
 # Sphere_Decoder-MLE-
 
+64 bit Mexw file, only runs on 64-bit Windows system 
+
 Sphere Decoder (Maximum Likelihood Estimator) for decoding QAM constellations, run qam_sphere_decoder.m with all files under same directory. 
 
 E.g:
